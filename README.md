@@ -1,10 +1,10 @@
+# SIM-KIP: Sistem Informasi Manajemen Kartu Indonesia Pintar
+Selamat datang di SIM-KIP, platform digital yang aman untuk manajemen data mahasiswa penerima program Kartu Indonesia Pintar (KIP). Aplikasi ini menyediakan antarmuka yang modern dan fungsional untuk Admin dan Mahasiswa, memastikan data terkelola dengan baik dan terlindungi.
+
 Proyek ini dikembangkan sebagai bagian dari pemenuhan tugas untuk mata kuliah "Sistem Keamanan". Tujuan utama dari proyek ini adalah untuk menerapkan konsep keamanan fundamental dan modern—mulai dari hashing password yang aman hingga enkripsi data—dalam sebuah aplikasi web yang fungsional dan relevan.
 
 # Mata Kuliah: Sistem Keamanan
 ## Dosen Pengampu: Niken Nerfita Sari, S.T, M.Cs. dan Feri Irawan, S.Kom., M.Cs.
-
-# SIM-KIP: Sistem Informasi Manajemen Kartu Indonesia Pintar
-Selamat datang di SIM-KIP, platform digital yang aman untuk manajemen data mahasiswa penerima program Kartu Indonesia Pintar (KIP). Aplikasi ini menyediakan antarmuka yang modern dan fungsional untuk Admin dan Mahasiswa, memastikan data terkelola dengan baik dan terlindungi.
 
 ## Fitur Utama
 Aplikasi ini memiliki fitur yang berbeda tergantung pada hak akses pengguna:
